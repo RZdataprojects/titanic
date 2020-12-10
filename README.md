@@ -17,6 +17,9 @@ Cabin (cabin #),
 Embarked (Port of Embarkation - C = Cherbourg, Q = Queenstown, S = Southampton).  
   
   
+# training
+30% of the data will be used to train the model, with 'Fare' and 'Embarked' being used to assume ones likelihood of survival.
+
 
 
 

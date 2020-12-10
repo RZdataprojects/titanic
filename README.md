@@ -1,5 +1,7 @@
+# Work in progress - Python Machine learning
+
 # titanic
-## A project set to predict the likelihood a passenger will survive the ship's journey through the atlantic.
+## A Machine learning project set to predict the likelihood a passenger will survive the ship's journey through the atlantic.
 To do so, we have data on each passenger based on 12th col.:  
 PassengerId,  
 Survived (i.e. stayed alive - used to compare model accuracy),  
